@@ -1,0 +1,28 @@
+name: Open IT
+favicon: null
+layout_spectrum: 0.9830957748927176
+typography_spectrum: 0.27099923184141517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18573092645965517
+  lightness: 0.9194955923594534
+  saturation: 0.9771314966492355
+  rhythmicContrast: 0.2994130840525031
+purpose: []
