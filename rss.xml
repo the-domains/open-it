@@ -4,8 +4,15 @@
         <description><![CDATA[Open Philosophy Information Technology]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 00:48:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fisher Delta full kit - RepRapPro]]></title>
+            <description><![CDATA[<article><h1>Fisher Delta full kit - RepRapPro</h1><p>Full open-source self-replicating Delta RepRap kit 32-bit Arduino-compatible, shielded Duet electronics enable control via a web-browser Pre-soldered Duet board with a built-in micro-SD card for standalone printing Wiring looms for simple plug-in connection - no soldering required Geared drive extruder with all metal stainless steel nozzle Removable print surface which has spring loaded kinematic locations for 1um repeatable positioning and bed probing The RepRapPro Fisher 3D printer is a Replicating Rapid-prototyping machine, or RepRap for short.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5c18f7978efa1eeccb119bd043db490cd7b0d23.png"></article>]]></description>
+            <link>https://reprappro.com/shop/reprap-kits/fisher-delta-full-kit/</link>
+            <guid isPermaLink="false">f8955b02-dfa2-4962-9d88-43cca6b72cfc</guid>
+            <pubDate>Thu, 18 Feb 2016 00:47:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Troubleshooting ASRock mobo. Is it DOA?]]></title>
             <description><![CDATA[<article><h1>Troubleshooting ASRock mobo. Is it DOA?</h1><p>Building a Mythbuntu box for my RV project presented unexpected issues, one of which was the motherboard, an ASRock A780GXE/128M. Basically nothing happened much when it was assembled. An email to tech support generated the following information, which I pass on to anyone who can use it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58cc69dffd2e4a99efd3b7b33abd397f3e38eb08.php"></article>]]></description>
