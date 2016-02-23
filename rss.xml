@@ -4,7 +4,7 @@
         <description><![CDATA[Open Philosophy Information Technology]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 21:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 21:20:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Overview]]></title>
@@ -26,13 +26,6 @@
             <link>http://davidryman.com/it.php/2009/11/24/troubleshooting-asrock-mobo-is-it-doa</link>
             <guid isPermaLink="false">413fab3d-f843-423c-b479-d763c4329604</guid>
             <pubDate>Thu, 18 Feb 2016 00:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Title]]></title>
-            <description><![CDATA[<article><h1>Title</h1><p>Fisher Delta </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df70314e501840c2bf7037904c565c39e3ff51ed.jpg"></article>]]></description>
-            <link>https://thegrid.ai/open-it/title/index.html</link>
-            <guid isPermaLink="false">288023be-7335-4852-8a7d-c9ee5bf1bfa1</guid>
-            <pubDate>Wed, 17 Feb 2016 22:20:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
