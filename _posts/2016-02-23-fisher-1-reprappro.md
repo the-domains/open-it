@@ -16,8 +16,8 @@ keywords:
   - repository
   - 5mm
 description: 'The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from RepRapPro. The machine is a faster to assemble, networked 3D printer with bed probe for full geometric compensation.'
-datePublished: '2016-03-10T22:45:01.080Z'
-dateModified: '2016-03-10T22:44:53.631Z'
+datePublished: '2016-03-10T22:47:47.064Z'
+dateModified: '2016-03-10T22:47:45.816Z'
 author: []
 related: []
 app_links: []
