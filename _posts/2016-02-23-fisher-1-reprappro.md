@@ -1,9 +1,9 @@
 ---
+datePublished: '2016-08-17T20:29:18.198Z'
+sourcePath: _posts/2016-02-23-fisher-1-reprappro.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: en
-starred: false
 keywords:
   - reprappro
   - fisher
@@ -15,31 +15,36 @@ keywords:
   - github
   - repository
   - 5mm
-description: 'The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from RepRapPro. The machine is a faster to assemble, networked 3D printer with bed probe for full geometric compensation.'
-datePublished: '2016-03-10T22:47:47.064Z'
-dateModified: '2016-03-10T22:47:45.816Z'
-author: []
 related: []
+author: []
+dateModified: '2016-08-17T20:29:17.673Z'
+title: Overview
 app_links: []
-title: Fisher 1 - RepRapPro
-sourcePath: _posts/2016-02-23-fisher-1-reprappro.md
-published: true
-authors: []
 publisher:
   name: RepRapPro
   domain: reprappro.com
   url: 'https://reprappro.com'
   favicon: 'https://reprappro.com/wp-content/uploads/2014/10/favicon.ico'
+description: >-
+  The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from
+  RepRapPro. The machine is a faster to assemble, networked 3D printer with bed
+  probe for full geometric compensation.
+inLanguage: en
+inNav: true
+via: {}
+starred: false
 url: fisher-1-reprappro/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95031f90-1d3d-470d-b67b-c6aae8505a39.jpg)
-
 ## Overview
 
 The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from RepRapPro. The machine is a faster to assemble, networked 3D printer with bed probe for full geometric compensation.
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ae93947f7dcfd8412845ee4ed1e92b97e08508.jpg" /><h1>Fisher 1 - RepRapPro</h1><p>Overview The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from RepRapPro. The machine is a faster to assemble, networked 3D printer with bed probe for full geometric compensation. These pages are the complete instructions for building, commissioning and using the RepRapPro Ltd version of RepRap Fisher.</p></article>
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a8029882a009fdddf043bd756e7cee855ba05d1.jpg)
 
 These pages are the complete instructions for building, commissioning and using the[RepRapPro Ltd][0]version of RepRap Fisher. Like all RepRap machines, RepRapPro Fisher is fully open-source. It is licensed under the GPL. All the design files and software are available from the[RepRapPro Ltd Github][1]repository.
 
@@ -105,10 +110,7 @@ Tools required for the build of the RepRapPro Fisher 3D printer:
 ### Nice to have, but not necessary
 
 * Vernier or digital callipers
-
-<article style=""><h1>Fisher 1 - RepRapPro</h1><p>Overview The RepRapPro Fisher 1 is the latest RepRap self-replicating 3D printer from RepRapPro&amp;period; The machine is a faster to assemble&amp;comma; networked 3D printer with bed probe for full geometric compensation&amp;period; These pages are the complete instructions for building&amp;comma; commissioning and using the RepRapPro Ltd version of RepRap Fisher&amp;period;</p><img src="https://reprappro.com/wp-content/uploads/2015/06/fisher-tools-300x236.jpg" /></article>
-
-
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d89b6db43a14d103a4c01c66cad0779ee481d4fc.jpg)
 
 [0]: https://reprappro.com/
 [1]: https://github.com/reprappro/Fisher
