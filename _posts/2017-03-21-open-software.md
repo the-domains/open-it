@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2017-09-28T18:44:09.239Z'
-dateModified: '2017-09-28T18:44:08.191Z'
+datePublished: '2017-09-28T19:00:51.130Z'
+dateModified: '2017-09-28T19:00:50.081Z'
 title: Open Software
 publisher: {}
 via: {}
@@ -28,16 +28,26 @@ There are many distributions containing Linux. I have used Red Hat, OpenSuSE and
 
 ---
 
-### Application Software
+<article style=""><img src="https://fthmb.tqn.com/q5O3F9PuBGaf8d4Aj_gNFNAz0Mg=/1600x900/filters:fill(auto,1)/debianscreenshot-56a5aa6c5f9b58b7d0dde332.jpg" /><h1>How To Choose The Best Linux Distro For Your Needs</h1><p>There are hundreds of Linux distributions and according to some people there are too many. I don't subscribe to this theory. For people new to Linux however it is possibly tricky to know which Linux distro is best for them.</p></article>
 
-Readerware. Books - Music - Video. The easiest, fastest way to catalog your collections.
+## Application Software
+
+### Media Catalog
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0b864456ca32037ab3d53912426161e9fd598f.png" /><h1>Readerware - Music, Video &amp; Book Database Software</h1><p>Internet software for collectors, schools, libraries, churches. The easiest, fastest way to catalog your books, music and videos. Nothing else comes close.</p></article>
 
+### Image Manipulation
+
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e342f7202768b0b495c10f46fe9ff08e02533d80.png" /><h1>GIMP</h1><p>This is the official website of the GNU Image Manipulation Program (GIMP).</p></article>
+
+### 3D Modeling 
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1d8188aa3c5d5acee9f657d62e49798e6f8c7fe.png" /><h1>OpenSCAD</h1></article>
 
+### Media Center
+
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba912646c91f11bb6f8dfeb986432143174da88.jpg" /><h1>Kodi | Open Source Home Theater Software</h1><p>Kodi is a free media player that is designed to look great on your big screen TV but is just as home on a small screen.</p></article>
+
+### Office
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b698bcfa6b1e3b58fbb13ed3b30b4a42f900430d.png" /><h1>Home | LibreOffice - Free Office Suite - Fun Project - Fantastic People</h1><p>Welcome to the official website of the LibreOffice project: the office suite the community has been dreaming for years. Download the latest version now.</p></article>
