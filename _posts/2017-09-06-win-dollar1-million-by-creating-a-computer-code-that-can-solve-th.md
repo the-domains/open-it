@@ -17,8 +17,8 @@ description: >-
   Mathematics Institute. Researchers at the University of St.
 app_links: []
 title: n-Queen problem
-datePublished: '2017-09-28T18:37:38.931Z'
-dateModified: '2017-09-28T18:37:38.176Z'
+datePublished: '2017-09-28T18:44:09.236Z'
+dateModified: '2017-09-28T18:44:08.191Z'
 via: {}
 inFeed: true
 sourcePath: >-
