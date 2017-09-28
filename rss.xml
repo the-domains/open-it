@@ -1,24 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Open Philosophy Information Technology]]></title>
-        <description><![CDATA[Open Philosophy Information Technology]]></description>
+        <title><![CDATA[open it]]></title>
+        <description><![CDATA[open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 20:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 18:37:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 28 Sep 2017 18:37:12 GMT</pubDate>
         <item>
-            <title><![CDATA[Troubleshooting ASRock mobo. Is it DOA?]]></title>
-            <description><![CDATA[<article><h1>Troubleshooting ASRock mobo. Is it DOA?</h1><p>Building a Mythbuntu box for my RV project presented unexpected issues, one of which was the motherboard, an ASRock A780GXE/128M. Basically nothing happened much when it was assembled. An email to tech support generated the following information, which I pass on to anyone who can use it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58cc69dffd2e4a99efd3b7b33abd397f3e38eb08.php"></article>]]></description>
-            <link>http://davidryman.com/it.php/2009/11/24/troubleshooting-asrock-mobo-is-it-doa</link>
-            <guid isPermaLink="false">413fab3d-f843-423c-b479-d763c4329604</guid>
-            <pubDate>Thu, 10 Mar 2016 22:31:58 GMT</pubDate>
+            <title><![CDATA[Open Pi-centric Media System]]></title>
+            <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>]]></description>
+            <link>https://thegrid.ai/open-it/entertainment-center/index.html</link>
+            <guid isPermaLink="false">3de975b3-a9ba-48db-a0e4-b5ebda69e4c0</guid>
+            <pubDate>Mon, 19 Sep 2016 20:47:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fisher Delta full kit - RepRapPro]]></title>
-            <description><![CDATA[<article><h1>Fisher Delta full kit - RepRapPro</h1><p>Full open-source self-replicating Delta RepRap kit 32-bit Arduino-compatible, shielded Duet electronics enable control via a web-browser Pre-soldered Duet board with a built-in micro-SD card for standalone printing Wiring looms for simple plug-in connection - no soldering required Geared drive extruder with all metal stainless steel nozzle Removable print surface which has spring loaded kinematic locations for 1um repeatable positioning and bed probing The RepRapPro Fisher 3D printer is a Replicating Rapid-prototyping machine, or RepRap for short.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5860acd24c8f5325f7d835f4f3d0fc1c582fb0c6.png"></article>]]></description>
-            <link>https://reprappro.com/shop/reprap-kits/fisher-delta-full-kit/</link>
-            <guid isPermaLink="false">f8955b02-dfa2-4962-9d88-43cca6b72cfc</guid>
-            <pubDate>Wed, 17 Aug 2016 20:28:58 GMT</pubDate>
+            <title><![CDATA[dragonshead - Squirting to Roger McGuinn]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLUxOCIYjEhI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLUxOCIYjEhI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLUxOCIYjEhI%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/embed/LUxOCIYjEhI</link>
+            <guid isPermaLink="false">65f78d0c-a6e3-4db0-beaf-7a0c95c32a80</guid>
+            <pubDate>Fri, 25 Aug 2017 18:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Modeling]]></title>
+            <description><![CDATA[<h1>Open Modeling</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889304c7448f345af5c7224359109b48a2e9cb02.jpg"><h1>davidryman&apos;s Thingiverse Profile</h1><p>Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.</p></article>]]></description>
+            <link>https://thegrid.ai/open-it/open-modeling/index.html</link>
+            <guid isPermaLink="false">46b4b9be-096a-451b-aee0-19bc6f11b3c5</guid>
+            <pubDate>Tue, 21 Mar 2017 22:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flow based Programming Video]]></title>
+            <description><![CDATA[<h2>Flow based Programming Video</h2>,<h3>Origins</h3>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fup2yhNTsaDs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dup2yhNTsaDs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fup2yhNTsaDs%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://thegrid.ai/open-it/flow-based-programming-video/index.html</link>
+            <guid isPermaLink="false">c5d2a715-6409-4a95-a62a-7464a8846bdb</guid>
+            <pubDate>Fri, 25 Aug 2017 18:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[n-Queen problem]]></title>
+            <description><![CDATA[<h1>n-Queen problem</h1>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/563cdaafd5b63a6abd5a415cb47d8dec/noop.jpg?input=http%3A%2F%2Fanonymous-news.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fchess-queens-puzzle.jpg"><h1>Win $1 million By Creating A Computer Code That Can Solve This &apos;Easy&apos; Puzzle</h1><p>Experts have set the table with a chess problem waiting for you to solve it. Requirements are simple: develop an ingenious software capable of solving the problem and you can take home one million dollars, offered by the Clay Mathematics Institute. Researchers at the University of St.</p></article>]]></description>
+            <link>https://thegrid.ai/open-it/n-queen-problem/index.html</link>
+            <guid isPermaLink="false">bd1102c2-4268-4db9-a0d3-387981e1a65c</guid>
+            <pubDate>Wed, 06 Sep 2017 19:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoFlo | Flow-Based Programming for JavaScript]]></title>
+            <description><![CDATA[<article><h1>NoFlo | Flow-Based Programming for JavaScript</h1><p>NoFlo is a JavaScript implementation of Flow-Based Programming (FBP). Separating the control flow of software from the actual software logic. Helping you organize large applications easier than traditional OOP paradigms, especially when importing and modifying large data sets.</p><img src="https://noflojs.org/img/diagrams/screen-and-map.png"></article>]]></description>
+            <link>https://noflojs.org/</link>
+            <guid isPermaLink="false">cc0f1fc6-27c7-48a9-8b70-090501153283</guid>
+            <pubDate>Fri, 25 Aug 2017 19:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flowhub | Full-stack visual programming at your fingertips]]></title>
+            <description><![CDATA[<article><h1>Flowhub | Full-stack visual programming at your fingertips</h1><p>Coding starts on the white-board. Keep it that way with Flowhub! The &quot;graph&quot; displays your software clearly, concisely and beautifully.</p><img src="https://flowhub.io/assets/flowhub-visual.png"></article>]]></description>
+            <link>https://flowhub.io/</link>
+            <guid isPermaLink="false">895211e4-06ea-49f0-8101-80d870f9712f</guid>
+            <pubDate>Fri, 25 Aug 2017 18:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node Red]]></title>
+            <description><![CDATA[<h2>Node Red</h2>,<article><img src="https://nodered.org/images/nr-image-2.png"><h1>Node-RED</h1><p>Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be then deployed to the runtime in a single-click.</p></article>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS18_LT0ktSk3Ryy9K1wcATvUHUg</link>
+            <guid isPermaLink="false">dda5a42d-29ab-4603-90a1-9c6075d2faae</guid>
+            <pubDate>Thu, 23 Mar 2017 18:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Software]]></title>
+            <description><![CDATA[<h1>Open Software</h1>,<h2>Operating System</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5decf7-7bc6-48eb-b157-acc7daa6ef26.png" title="Linux" alt="The One you need">,<p>There are many distributions containing Linux. I have used Red Hat, OpenSuSE and Ubuntu. I prefer Xubuntu for desktops, but use others for specific projects, e.g. Kali.</p>]]></description>
+            <link>https://thegrid.ai/open-it/open-software/index.html</link>
+            <guid isPermaLink="false">d56cc8f4-9b4e-4b27-864a-3905e7f08092</guid>
+            <pubDate>Tue, 21 Mar 2017 21:30:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
