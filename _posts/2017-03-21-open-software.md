@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2017-09-28T18:42:28.213Z'
-dateModified: '2017-09-28T18:42:27.640Z'
+datePublished: '2017-09-28T18:44:09.239Z'
+dateModified: '2017-09-28T18:44:08.191Z'
 title: Open Software
 publisher: {}
 via: {}
