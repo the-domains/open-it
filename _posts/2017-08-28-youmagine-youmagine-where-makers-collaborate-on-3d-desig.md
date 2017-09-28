@@ -13,8 +13,8 @@ description: >-
   or simply download and 3D print!
 app_links: []
 title: "YouMagine - YouMagine - Where makers collaborate on 3D designs \uD83D\uDE80"
-datePublished: '2017-09-28T18:37:38.925Z'
-dateModified: '2017-09-28T18:37:38.176Z'
+datePublished: '2017-09-28T18:44:09.240Z'
+dateModified: '2017-09-28T18:44:08.191Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-08-28-youmagine-youmagine-where-makers-collaborate-on-3d-desig.md
