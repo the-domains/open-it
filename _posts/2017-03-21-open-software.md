@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2017-09-28T19:00:51.130Z'
-dateModified: '2017-09-28T19:00:50.081Z'
+datePublished: '2017-09-28T19:01:06.718Z'
+dateModified: '2017-09-28T19:01:06.174Z'
 title: Open Software
 publisher: {}
 via: {}
@@ -28,7 +28,7 @@ There are many distributions containing Linux. I have used Red Hat, OpenSuSE and
 
 ---
 
-<article style=""><img src="https://fthmb.tqn.com/q5O3F9PuBGaf8d4Aj_gNFNAz0Mg=/1600x900/filters:fill(auto,1)/debianscreenshot-56a5aa6c5f9b58b7d0dde332.jpg" /><h1>How To Choose The Best Linux Distro For Your Needs</h1><p>There are hundreds of Linux distributions and according to some people there are too many. I don't subscribe to this theory. For people new to Linux however it is possibly tricky to know which Linux distro is best for them.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/53236f42d5e2287cff4866fc87ad7f4a/noop.jpg?input=https%3A%2F%2Ffthmb.tqn.com%2Fq5O3F9PuBGaf8d4Aj_gNFNAz0Mg%3D%2F1600x900%2Ffilters%3Afill(auto%2C1)%2Fdebianscreenshot-56a5aa6c5f9b58b7d0dde332.jpg" /><h1>How To Choose The Best Linux Distro For Your Needs</h1><p>There are hundreds of Linux distributions and according to some people there are too many. I don't subscribe to this theory. For people new to Linux however it is possibly tricky to know which Linux distro is best for them.</p></article>
 
 ## Application Software
 
