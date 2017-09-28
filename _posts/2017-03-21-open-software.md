@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2017-09-28T18:37:11.561Z'
-dateModified: '2017-09-28T18:37:10.756Z'
+datePublished: '2017-09-28T18:42:28.213Z'
+dateModified: '2017-09-28T18:42:27.640Z'
 title: Open Software
 publisher: {}
 via: {}
@@ -28,13 +28,11 @@ There are many distributions containing Linux. I have used Red Hat, OpenSuSE and
 
 ---
 
-### Software
+### Application Software
 
-### Readerware
+Readerware. Books - Music - Video. The easiest, fastest way to catalog your collections.
 
-Books - Music - Video. The easiest, fastest way to catalog your collections.
-
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/079858ccfb4851879cc76ce7493e4b46/noop.png?input=http%3A%2F%2Fwww.readerware.com%2Fimages%2Fslide-video.png" /><h1>Readerware - Music, Video &amp; Book Database Software</h1><p>Internet software for collectors, schools, libraries, churches. The easiest, fastest way to catalog your books, music and videos. Nothing else comes close.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0b864456ca32037ab3d53912426161e9fd598f.png" /><h1>Readerware - Music, Video &amp; Book Database Software</h1><p>Internet software for collectors, schools, libraries, churches. The easiest, fastest way to catalog your books, music and videos. Nothing else comes close.</p></article>
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e342f7202768b0b495c10f46fe9ff08e02533d80.png" /><h1>GIMP</h1><p>This is the official website of the GNU Image Manipulation Program (GIMP).</p></article>
 
