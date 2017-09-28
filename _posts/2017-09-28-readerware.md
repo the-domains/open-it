@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'The easiest, fastest way to catalog your collections.'
-dateModified: '2017-09-28T18:37:38.176Z'
-datePublished: '2017-09-28T18:37:38.919Z'
+dateModified: '2017-09-28T18:44:08.191Z'
+datePublished: '2017-09-28T18:44:09.233Z'
 title: Readerware
 author: []
 publisher:
