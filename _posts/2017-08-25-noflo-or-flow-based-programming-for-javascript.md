@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://noflojs.org/'
 title: NoFlo | Flow-Based Programming for JavaScript
-datePublished: '2017-09-28T18:37:38.883Z'
-dateModified: '2017-09-28T18:37:38.176Z'
+datePublished: '2017-09-28T18:44:09.103Z'
+dateModified: '2017-09-28T18:44:08.191Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-25-noflo-or-flow-based-programming-for-javascript.md
