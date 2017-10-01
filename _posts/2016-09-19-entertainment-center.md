@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-01T00:34:30.522Z'
+datePublished: '2017-10-01T00:36:41.610Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-01T00:34:28.956Z'
+dateModified: '2017-10-01T00:36:37.820Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
@@ -28,7 +28,17 @@ We have an ever changing landscape of technology. Several TVs, several computers
 
 ### Requirements:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNj0sKwkAQRPeeog8gBrchBMTPxs9CyQHaTGcc6JkOPTMRb2-MKNnV4r0qqspcV-zqkxsIYi-aYgkHUZ8ZYb2E7YM4En6Coy4CBgNXeSHHVVWM3uIv31XQtBhTCc1tM4HNES70nJNnGRyNC52KB2QGUvyWWgpKc3QnbfYUEupk7E1uMTkJyNCrWEXvXbA_oRh_vAGPTEVN" height="244" style=""></iframe>
+<ul\><li\>Live sports: Formula 1, Chelsea, Chiefs and Royals.</li\>
+
+<li\>Live broadcast: USA and UK News.</li\>
+
+<li\>Movies: from all eras and genres.</li\>
+
+<li\>Documentaries: Educational programming.</li\>
+
+</ul\>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
 
 ---
 
