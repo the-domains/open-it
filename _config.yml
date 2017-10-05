@@ -62,6 +62,9 @@ navigation:
   - name: Logan & Lily
     url: 'http://loganandlily.com'
     type: external
+  - name: About Us
+    id: d3c13538-f6dd-461f-bef2-83aeae966175
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c15a97b-3c07-41f8-9737-70ad6b87071b.jpg
 title: open it
