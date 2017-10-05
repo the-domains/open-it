@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-05T18:32:47.129Z'
+datePublished: '2017-10-05T18:58:12.299Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-05T18:32:43.623Z'
+dateModified: '2017-10-05T18:58:11.694Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
@@ -24,12 +24,10 @@ _type: Article
 
 We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.
 
----
-
-### Requirements:
-
 > Live sports: Formula 1, Chelsea, Chiefs and Royals.
 > Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: Educational programming.
+
+---
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
 
