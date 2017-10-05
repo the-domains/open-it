@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-01T00:36:41.610Z'
+datePublished: '2017-10-05T18:31:51.683Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-01T00:36:37.820Z'
+dateModified: '2017-10-05T18:31:48.994Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
@@ -28,15 +28,8 @@ We have an ever changing landscape of technology. Several TVs, several computers
 
 ### Requirements:
 
-<ul\><li\>Live sports: Formula 1, Chelsea, Chiefs and Royals.</li\>
-
-<li\>Live broadcast: USA and UK News.</li\>
-
-<li\>Movies: from all eras and genres.</li\>
-
-<li\>Documentaries: Educational programming.</li\>
-
-</ul\>
+> Live sports: Formula 1, Chelsea, Chiefs and Royals.
+> Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: Educational programming.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
 
