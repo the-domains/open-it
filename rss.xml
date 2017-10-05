@@ -4,9 +4,9 @@
         <description><![CDATA[open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Oct 2017 18:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2017 18:44:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Oct 2017 18:44:24 GMT</pubDate>
+        <pubDate>Thu, 05 Oct 2017 18:44:45 GMT</pubDate>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
             <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>]]></description>
@@ -41,13 +41,6 @@
             <link>https://thegrid.ai/open-it/flow-based-programming-video/index.html</link>
             <guid isPermaLink="false">c5d2a715-6409-4a95-a62a-7464a8846bdb</guid>
             <pubDate>Fri, 25 Aug 2017 18:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<h1>About</h1>,<p>David Ryman Open It </p>,<p>We are a project focusing on the creation of newborn Artificial Intelligence with faculties for development from birth to maturity.</p>]]></description>
-            <link>https://thegrid.ai/open-it/about/index.html</link>
-            <guid isPermaLink="false">d3c13538-f6dd-461f-bef2-83aeae966175</guid>
-            <pubDate>Thu, 05 Oct 2017 18:43:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[n-Queen problem]]></title>
