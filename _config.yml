@@ -26,7 +26,7 @@ author:
   url: 'https://DavidRyman.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/29c3a431-ee3a-4212-bc2e-27f3e1db4a53.png
-name: Open IT
+name: DavidR Open IT
 cta:
   domain: null
   bucket: null
@@ -67,7 +67,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c15a97b-3c07-41f8-9737-70ad6b87071b.jpg
-title: open it
+title: DavidR Open it
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
