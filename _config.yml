@@ -53,6 +53,9 @@ navigation:
   - name: 3D Printers
     id: f8955b02-dfa2-4962-9d88-43cca6b72cfc
     type: content
+  - name: Pinterest
+    url: 'https://www.pinterest.com/davidryman/'
+    type: external
   - name: Thingiverse
     url: 'https://www.thingiverse.com/davidryman/about'
     type: external
@@ -65,9 +68,6 @@ navigation:
   - name: About Us
     id: d3c13538-f6dd-461f-bef2-83aeae966175
     type: content
-  - name: Pinterest
-    url: 'https://www.pinterest.com/davidryman/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c15a97b-3c07-41f8-9737-70ad6b87071b.jpg
 title: DR Open it
