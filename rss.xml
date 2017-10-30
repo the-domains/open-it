@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DR Open it]]></title>
-        <description><![CDATA[DR Open it]]></description>
+        <title><![CDATA[David Ryman Open it]]></title>
+        <description><![CDATA[David Ryman Open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Oct 2017 18:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2017 17:34:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Oct 2017 18:30:48 GMT</pubDate>
+        <pubDate>Mon, 30 Oct 2017 17:34:52 GMT</pubDate>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
             <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>,<blockquote>Live sports: Formula 1, Chelsea, Chiefs and Royals.
@@ -44,6 +44,13 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <pubDate>Fri, 25 Aug 2017 18:53:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzDEOgCAMAMCvEB5Ad6P-pUJREKFpG6O_d3C94WaNUticvUyLN3oMKt74q3cqcfGHGesEwA0tD7lCK_2kVHqI44IN004KVYFl5NIoVPUO9e3RJcok6wx_t36stygO" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJwlzDEOgCAMAMCvEB5Ad6P-pUJREKFpG6O_d3C94WaNUticvUyLN3oMKt74q3cqcfGHGesEwA0tD7lCK_2kVHqI44IN004KVYFl5NIoVPUO9e3RJcok6wx_t36stygO</link>
+            <guid isPermaLink="false">cb64b6c3-470e-4b13-84e6-a3bf8043d402</guid>
+            <pubDate>Mon, 30 Oct 2017 17:34:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Other Sites]]></title>
             <description><![CDATA[<h1>Other Sites</h1>,]]></description>
             <link>https://thegrid.ai/open-it/ab5e1c6b-b729-43cb-bc73-ab83a2ef16d0/index.html</link>
@@ -70,13 +77,6 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <link>https://flowhub.io/</link>
             <guid isPermaLink="false">895211e4-06ea-49f0-8101-80d870f9712f</guid>
             <pubDate>Fri, 25 Aug 2017 18:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node Red]]></title>
-            <description><![CDATA[<h2>Node Red</h2>,<article><img src="https://nodered.org/images/nr-image-2.png"><h1>Node-RED</h1><p>Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette. Flows can be then deployed to the runtime in a single-click.</p></article>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS18_LT0ktSk3Ryy9K1wcATvUHUg</link>
-            <guid isPermaLink="false">dda5a42d-29ab-4603-90a1-9c6075d2faae</guid>
-            <pubDate>Thu, 23 Mar 2017 18:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
