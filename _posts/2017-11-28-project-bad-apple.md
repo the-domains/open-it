@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-28T02:10:38.647Z'
-datePublished: '2017-11-28T02:10:39.113Z'
+dateModified: '2017-11-28T02:13:23.171Z'
+datePublished: '2017-11-28T02:13:24.059Z'
 title: 'Project: Bad Apple'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-11-28-project-bad-apple.md
 starred: false
 datePublishedOriginal: '2017-11-28T02:10:38.409Z'
-sourcePath: _posts/2017-11-28-project-bad-apple.md
 url: project-bad-apple/index.html
 _type: Article
 
