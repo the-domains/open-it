@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The iPhone 4 received generally positive reception, with critics praising its
   revamped design and more powerful hardware in comparison to previous models.
@@ -7,8 +7,8 @@ description: >-
   the release of the iPhone 4 was plagued by highly publicized reports that
   abnormalities in its new antenna design caused the device to lose its cellular
   signal if held in a certain way.
-dateModified: '2017-11-28T02:26:53.078Z'
-datePublished: '2017-11-28T02:26:53.773Z'
+dateModified: '2017-11-28T02:28:44.352Z'
+datePublished: '2017-11-28T02:28:45.074Z'
 title: iPhone 4 jailbroken
 author: []
 publisher:
@@ -22,7 +22,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-28T02:21:50.432Z'
 url: iphone-4-jailbroken/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # iPhone 4 jailbroken
