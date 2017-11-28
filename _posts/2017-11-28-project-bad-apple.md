@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-28T02:16:35.699Z'
-datePublished: '2017-11-28T02:16:36.022Z'
+dateModified: '2017-11-28T02:23:28.443Z'
+datePublished: '2017-11-28T02:23:28.769Z'
 title: 'Project: Bad Apple'
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 
 ## Components
 
-* iPhone 4 - white jailbroken
+* [iPhone 4 - white jailbroken][0]
 * iPhone 4 - black tethered
 * iPad
 * Powerbool G4
@@ -36,4 +36,6 @@ _type: Article
 
 ---
 
-*
+* 
+
+[0]: http://iPhone 4 jailbroken/
