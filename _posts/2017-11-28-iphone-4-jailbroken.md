@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The iPhone 4 received generally positive reception, with critics praising its
   revamped design and more powerful hardware in comparison to previous models.
@@ -7,8 +7,8 @@ description: >-
   the release of the iPhone 4 was plagued by highly publicized reports that
   abnormalities in its new antenna design caused the device to lose its cellular
   signal if held in a certain way.
-dateModified: '2017-11-28T02:21:49.939Z'
-datePublished: '2017-11-28T02:21:50.432Z'
+dateModified: '2017-11-28T02:22:04.465Z'
+datePublished: '2017-11-28T02:22:05.186Z'
 title: iPhone 4 jailbroken
 author: []
 publisher:
@@ -17,10 +17,11 @@ publisher:
   favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
   domain: en.wikipedia.org
 via: {}
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/IPhone_4'
+sourcePath: _posts/2017-11-28-iphone-4-jailbroken.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-28T02:21:50.432Z'
-sourcePath: _posts/2017-11-28-iphone-4-jailbroken.md
+url: iphone-4-jailbroken/index.html
 _type: MediaObject
 
 ---
