@@ -4,9 +4,9 @@
         <description><![CDATA[David Ryman Open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 02:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 02:10:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 02:08:56 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 02:10:39 GMT</pubDate>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
             <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>,<blockquote>Live sports: Formula 1, Chelsea, Chiefs and Royals.
@@ -44,6 +44,13 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <pubDate>Fri, 25 Aug 2017 18:53:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Project: Bad Apple]]></title>
+            <description><![CDATA[<h1>Project: Bad Apple</h1>,<h2>Components</h2>,<ul><li>iPhone 4 - white jailbroken</li><li>iPhone 4 - black tethered</li><li>iPad</li><li>Powerbool G4</li></ul>,<ul><li>Copy all data from iPhone white</li><li>install Android on iPhone white</li><li>install iPad as a house remote</li><li>Install Linux on Powerbook G4</li></ul>]]></description>
+            <link>https://thegrid.ai/open-it/project-bad-apple/index.html</link>
+            <guid isPermaLink="false">640de28c-f891-411b-be93-70315205eeef</guid>
+            <pubDate>Tue, 28 Nov 2017 02:10:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p><a href="https://platform.linkedin.com/badges/js/profile.js" title="">Linkedin</a></p>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJwlzDEOgCAMAMCvEB5Ad6P-pUJREKFpG6O_d3C94WaNUticvUyLN3oMKt74q3cqcfGHGesEwA0tD7lCK_2kVHqI44IN004KVYFl5NIoVPUO9e3RJcok6wx_t36stygO</link>
@@ -70,13 +77,6 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <link>https://noflojs.org/</link>
             <guid isPermaLink="false">cc0f1fc6-27c7-48a9-8b70-090501153283</guid>
             <pubDate>Fri, 25 Aug 2017 19:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flowhub | Full-stack visual programming at your fingertips]]></title>
-            <description><![CDATA[<article><h1>Flowhub | Full-stack visual programming at your fingertips</h1><p>Coding starts on the white-board. Keep it that way with Flowhub! The &quot;graph&quot; displays your software clearly, concisely and beautifully.</p><img src="https://flowhub.io/assets/flowhub-visual.png"></article>]]></description>
-            <link>https://flowhub.io/</link>
-            <guid isPermaLink="false">895211e4-06ea-49f0-8101-80d870f9712f</guid>
-            <pubDate>Fri, 25 Aug 2017 18:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
