@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-28T02:13:23.171Z'
-datePublished: '2017-11-28T02:13:24.059Z'
+dateModified: '2017-11-28T02:16:35.699Z'
+datePublished: '2017-11-28T02:16:36.022Z'
 title: 'Project: Bad Apple'
 author: []
 publisher: {}
@@ -25,6 +25,7 @@ _type: Article
 * iPhone 4 - black tethered
 * iPad
 * Powerbool G4
+* ---
 
 ## Plan
 
@@ -32,3 +33,7 @@ _type: Article
 * install Android on iPhone white
 * install iPad as a house remote
 * Install Linux on Powerbook G4
+
+---
+
+*
