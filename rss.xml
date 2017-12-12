@@ -4,9 +4,9 @@
         <description><![CDATA[David Ryman Open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Dec 2017 20:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2017 20:17:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Dec 2017 20:17:11 GMT</pubDate>
+        <pubDate>Tue, 12 Dec 2017 20:17:54 GMT</pubDate>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
             <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>,<blockquote>Live sports: Formula 1, Chelsea, Chiefs and Royals.
@@ -45,6 +45,13 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
         </item>
         <item>
             <title><![CDATA[bitcoin.pdf]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aba5500d8e941a5d56314dc918077ded/noop?input=https%3A%2F%2Flh5.googleusercontent.com%2FasF3cuPTq5fyPNYfuGT94TB8dsxiCdiofsnehqvjNilRFCWqGtSbCWuWCBc%3Dw1200-h630-p"><h1>bitcoin.pdf</h1></article>]]></description>
+            <link>https://drive.google.com/open?id=1soEkV6EXCvF5LC27qkLtnerkHggN-II7</link>
+            <guid isPermaLink="false">be85e988-828b-43c6-bdae-d0f4a3eaac9b</guid>
+            <pubDate>Tue, 12 Dec 2017 20:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bitcoin.pdf]]></title>
             <description><![CDATA[<article><h1>bitcoin.pdf</h1><img src="https://lh5.googleusercontent.com/asF3cuPTq5fyPNYfuGT94TB8dsxiCdiofsnehqvjNilRFCWqGtSbCWuWCBc=w1200-h630-p"></article>]]></description>
             <link>https://drive.google.com/open?id=1soEkV6EXCvF5LC27qkLtnerkHggN-II7</link>
             <guid isPermaLink="false">f3c4e00c-f52e-4316-a04b-3ede842b70b0</guid>
@@ -70,13 +77,6 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <link>https://thegrid.ai/open-it/ab5e1c6b-b729-43cb-bc73-ab83a2ef16d0/index.html</link>
             <guid isPermaLink="false">ab5e1c6b-b729-43cb-bc73-ab83a2ef16d0</guid>
             <pubDate>Fri, 20 Oct 2017 17:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[n-Queen problem]]></title>
-            <description><![CDATA[<h1>n-Queen problem</h1>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/563cdaafd5b63a6abd5a415cb47d8dec/noop.jpg?input=http%3A%2F%2Fanonymous-news.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fchess-queens-puzzle.jpg"><h1>Win $1 million By Creating A Computer Code That Can Solve This &apos;Easy&apos; Puzzle</h1><p>Experts have set the table with a chess problem waiting for you to solve it. Requirements are simple: develop an ingenious software capable of solving the problem and you can take home one million dollars, offered by the Clay Mathematics Institute. Researchers at the University of St.</p></article>]]></description>
-            <link>https://thegrid.ai/open-it/n-queen-problem/index.html</link>
-            <guid isPermaLink="false">bd1102c2-4268-4db9-a0d3-387981e1a65c</guid>
-            <pubDate>Wed, 06 Sep 2017 19:44:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
