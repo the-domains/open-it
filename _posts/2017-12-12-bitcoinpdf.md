@@ -1,25 +1,21 @@
 ---
+inFeed: true
+description: ''
+dateModified: '2017-12-12T20:17:53.398Z'
+datePublished: '2017-12-12T20:17:53.872Z'
+title: bitcoin.pdf
 author: []
-related: []
 publisher:
   url: 'https://drive.google.com'
   name: Google Docs
   favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
   domain: drive.google.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://drive.google.com/open?id=1soEkV6EXCvF5LC27qkLtnerkHggN-II7'
-title: bitcoin.pdf
-datePublished: '2017-12-12T20:17:10.389Z'
-dateModified: '2017-12-12T20:17:00.618Z'
-datePublishedOriginal: '2017-12-12T20:17:10.389Z'
 via: {}
-inFeed: true
+isBasedOnUrl: 'https://drive.google.com/open?id=1soEkV6EXCvF5LC27qkLtnerkHggN-II7'
 starred: false
+datePublishedOriginal: '2017-12-12T20:17:53.872Z'
 sourcePath: _posts/2017-12-12-bitcoinpdf.md
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>bitcoin.pdf</h1><img src="https://lh5.googleusercontent.com/asF3cuPTq5fyPNYfuGT94TB8dsxiCdiofsnehqvjNilRFCWqGtSbCWuWCBc=w1200-h630-p" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aba5500d8e941a5d56314dc918077ded/noop?input=https%3A%2F%2Flh5.googleusercontent.com%2FasF3cuPTq5fyPNYfuGT94TB8dsxiCdiofsnehqvjNilRFCWqGtSbCWuWCBc%3Dw1200-h630-p" /><h1>bitcoin.pdf</h1></article>
