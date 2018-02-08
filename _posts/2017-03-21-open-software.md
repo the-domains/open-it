@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2018-02-08T18:17:23.441Z'
-dateModified: '2018-02-08T18:17:22.588Z'
+datePublished: '2018-02-08T18:44:08.526Z'
+dateModified: '2018-02-08T18:44:07.815Z'
 title: Open Software
 publisher: {}
 via: {}
@@ -28,10 +28,7 @@ There are many distributions containing Linux. I have used Red Hat, OpenSuSE and
 
 ---
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/773974f8ddf72884427b36350ee7f17c464423a3.jpg" /><h1>How To Choose The Best Linux Distro For Your Needs</h1><p>There are hundreds of Linux distributions and according to some people there are too many. I don't subscribe to this theory. For people new to Linux however it is possibly tricky to know which Linux distro is best for them.</p></article>
-
----
-
+### **This will get you started**
 ![If you would rather pick which features you want or don't want as part of the installed software, you may wish to build from source code. Source packages tend to be in tar.gz files or similar and often require you to unpack the file and run "make" with arguments depending on what you want built.](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/p118x118/13332783_1401609569864470_1381823970534320036_n.jpg?oh=77f9392862c9f5432e5b4393d3b44d1a&oe=5ADAC712)
 
 ## Application Software
