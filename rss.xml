@@ -4,9 +4,16 @@
         <description><![CDATA[David Ryman Open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Feb 2018 18:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2018 18:44:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Feb 2018 18:44:33 GMT</pubDate>
+        <pubDate>Thu, 08 Feb 2018 18:44:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Open Software]]></title>
+            <description><![CDATA[<h1>Open Software</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5decf7-7bc6-48eb-b157-acc7daa6ef26.png" title="Linux" alt="The One you need">,<h2>Operating System</h2>,<p>There are many distributions containing Linux. I have used Red Hat, OpenSuSE and Ubuntu. I prefer Xubuntu for desktops, but use others for specific projects, e.g. Kali.</p>]]></description>
+            <link>https://thegrid.ai/open-it/open-software/index.html</link>
+            <guid isPermaLink="false">d56cc8f4-9b4e-4b27-864a-3905e7f08092</guid>
+            <pubDate>Tue, 21 Mar 2017 21:30:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
             <description><![CDATA[<h1>Open Pi-centric Media System</h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a370e66a602662fb33bc99c621a4c4c7c1d407.png" title="Fun with Technophobia" alt="I&rsquo;m a news junkie and student of AI, Taoism, FBP, IoT and emerging technology. My partner and best friend suffers from technophobia. The problem: to assemble a system that is of benefit to both. Easy?">,<p>We have an ever changing landscape of technology. Several TVs, several computers, and the RV, and an every increasing list of sources for entertainment and education.</p>,<blockquote>Live sports: Formula 1, Chelsea, Chiefs and Royals.
@@ -14,13 +21,6 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <link>https://thegrid.ai/open-it/entertainment-center/index.html</link>
             <guid isPermaLink="false">3de975b3-a9ba-48db-a0e4-b5ebda69e4c0</guid>
             <pubDate>Mon, 19 Sep 2016 20:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open Software]]></title>
-            <description><![CDATA[<h1>Open Software</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5decf7-7bc6-48eb-b157-acc7daa6ef26.png" title="Linux" alt="The One you need">,<h2>Operating System</h2>,<p>There are many distributions containing Linux. I have used Red Hat, OpenSuSE and Ubuntu. I prefer Xubuntu for desktops, but use others for specific projects, e.g. Kali.</p>]]></description>
-            <link>https://thegrid.ai/open-it/open-software/index.html</link>
-            <guid isPermaLink="false">d56cc8f4-9b4e-4b27-864a-3905e7f08092</guid>
-            <pubDate>Tue, 21 Mar 2017 21:30:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[dragonshead - Squirting to Roger McGuinn]]></title>
