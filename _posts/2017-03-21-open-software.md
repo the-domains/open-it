@@ -4,8 +4,8 @@ description: >-
   and Ubuntu. I prefer Xubuntu for desktops, but use others for specific
   projects, e.g. Kali.
 author: []
-datePublished: '2017-11-28T02:13:24.029Z'
-dateModified: '2017-11-28T02:13:23.171Z'
+datePublished: '2018-02-08T18:17:23.441Z'
+dateModified: '2018-02-08T18:17:22.588Z'
 title: Open Software
 publisher: {}
 via: {}
@@ -30,11 +30,15 @@ There are many distributions containing Linux. I have used Red Hat, OpenSuSE and
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/773974f8ddf72884427b36350ee7f17c464423a3.jpg" /><h1>How To Choose The Best Linux Distro For Your Needs</h1><p>There are hundreds of Linux distributions and according to some people there are too many. I don't subscribe to this theory. For people new to Linux however it is possibly tricky to know which Linux distro is best for them.</p></article>
 
+---
+
+![If you would rather pick which features you want or don't want as part of the installed software, you may wish to build from source code. Source packages tend to be in tar.gz files or similar and often require you to unpack the file and run "make" with arguments depending on what you want built.](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/p118x118/13332783_1401609569864470_1381823970534320036_n.jpg?oh=77f9392862c9f5432e5b4393d3b44d1a&oe=5ADAC712)
+
 ## Application Software
 
 ### **Desktop Environment**
 
-<article style=""><img src="https://www.ubuntupit.com/wp-content/uploads/2016/08/Top-13-Desktop-Environment.jpg" /><h1>13 Best Linux Desktop Environment for Ubuntu: Which One is Right for You?</h1><p>Linux is a versatile and customizable open source operating system. You can make the Linux distros as per your requirement. Ubuntu is one of the best Linux distro out there which comes pre-packed with unity desktop environment, Ubuntu Gnome, Ubuntu MATE, Ubuntu cinnamon etc.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9c1b75ad010e9e1f351fae70a9d9ad32/noop.jpg?input=https%3A%2F%2Fwww.ubuntupit.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTop-13-Desktop-Environment.jpg" /><h1>13 Best Linux Desktop Environment for Ubuntu: Which One is Right for You?</h1><p>Linux is a versatile and customizable open source operating system. You can make the Linux distros as per your requirement. Ubuntu is one of the best Linux distro out there which comes pre-packed with unity desktop environment, Ubuntu Gnome, Ubuntu MATE, Ubuntu cinnamon etc.</p></article>
 
 ### **Media Catalog**
 
