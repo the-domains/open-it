@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-02-18T21:52:16.248Z'
+datePublished: '2018-02-18T21:52:27.899Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-02-18T21:52:15.440Z'
+dateModified: '2018-02-18T21:52:27.299Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
@@ -83,4 +83,4 @@ Filezilla - FTP
 
 2018 version
 
-<article style=""><img src="https://www.howtogeek.com/thumbcache/648/248/cabcd3f123df2775905300973d5d4f53/wp-content/uploads/2018/02/pi-kodi.png" /><h1>How to Build a $35 Media Center with Kodi and the Raspberry Pi</h1><p>If you've been holding off on setting up a Kodi-based media center computer because they're loud, expensive, don't fit in your media rack, the Raspberry Pi is your savior. For only $35 (plus a few accessories you may have lying around), you can get a small, efficient computer that can play all your media from one beautiful, couch-friendly interface.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ee67a0fe71f512d322a4b31c409799ab/noop.png?input=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F648%2F248%2Fcabcd3f123df2775905300973d5d4f53%2Fwp-content%2Fuploads%2F2018%2F02%2Fpi-kodi.png" /><h1>How to Build a $35 Media Center with Kodi and the Raspberry Pi</h1><p>If you've been holding off on setting up a Kodi-based media center computer because they're loud, expensive, don't fit in your media rack, the Raspberry Pi is your savior. For only $35 (plus a few accessories you may have lying around), you can get a small, efficient computer that can play all your media from one beautiful, couch-friendly interface.</p></article>
