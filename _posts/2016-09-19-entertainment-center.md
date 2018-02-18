@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-02-08T18:44:45.163Z'
+datePublished: '2018-02-18T21:52:16.248Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-02-08T18:44:44.739Z'
+dateModified: '2018-02-18T21:52:15.440Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
@@ -73,6 +73,14 @@ Throw in a some casting....
 
 ## Other tools
 
+Putty - SSH
+
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c95c402978393f67fcd15f7ea71c5af4791b3c86.jpg" /><h1>PuTTY Download Page - SSH.COM</h1><p>PuTTY is an SSH and Telnet client for Windows. Download here, with installation and SSH key setup instructions.</p></article>
 
+Filezilla - FTP
+
 <article style=""><h1>FileZilla - The free FTP solution</h1><p>FileZilla - The free FTP solution for both client and server. Filezilla is open source software distributed free of charge.</p></article>
+
+2018 version
+
+<article style=""><img src="https://www.howtogeek.com/thumbcache/648/248/cabcd3f123df2775905300973d5d4f53/wp-content/uploads/2018/02/pi-kodi.png" /><h1>How to Build a $35 Media Center with Kodi and the Raspberry Pi</h1><p>If you've been holding off on setting up a Kodi-based media center computer because they're loud, expensive, don't fit in your media rack, the Raspberry Pi is your savior. For only $35 (plus a few accessories you may have lying around), you can get a small, efficient computer that can play all your media from one beautiful, couch-friendly interface.</p></article>
