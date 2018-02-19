@@ -39,7 +39,7 @@ navigation:
     url: 'http://jobs.davidryman.com'
     type: external
   - name: Showroom
-    url: 'https://dragontau.com'
+    url: 'http://dragontau.com'
     type: external
   - name: Dr V2
     url: 'http://v2.davidryman.com'
