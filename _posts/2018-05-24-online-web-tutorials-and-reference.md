@@ -5,8 +5,8 @@ description: >-
   Reference HTML Canvas Reference HTML SVG Reference Google Maps Reference CSS
   Reference CSS Browser Support CSS Selector Reference W3.CSS Reference
   Bootstrap Reference Icon Reference
-dateModified: '2018-05-24T19:31:52.982Z'
-datePublished: '2018-05-24T19:31:54.191Z'
+dateModified: '2018-05-24T19:37:35.113Z'
+datePublished: '2018-05-24T19:37:35.542Z'
 title: Online Web Tutorials and reference
 author: []
 publisher:
@@ -29,6 +29,6 @@ _type: Article
 
 ## Cheat Sheets
 
-<article style=""><h1>Cheat Sheet : All Cheat Sheets in one page</h1><p>All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.</p></article>
+<article style=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMKBHKbWZnWXagAOX5m59RnozepqJtMTXk48GJa2Sh721g0t_P_KH_MQ8" /><h1>cheatsheets - Google Search</h1></article>
 
 ---
