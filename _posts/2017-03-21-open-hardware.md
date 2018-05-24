@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Thingiverse is a universe of things. Download our files and build them with
   your lasercutter, 3D printer, or CNC.
-dateModified: '2017-11-28T02:13:23.171Z'
-datePublished: '2017-11-28T02:13:24.059Z'
+dateModified: '2018-05-24T19:29:30.054Z'
+datePublished: '2018-05-24T19:29:30.375Z'
 title: Open Modeling
 author: []
 publisher:
