@@ -4,22 +4,15 @@
         <description><![CDATA[David Ryman Open it]]></description>
         <link>https://thegrid.ai/open-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 May 2018 19:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 May 2018 19:31:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/open-it/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 May 2018 19:29:36 GMT</pubDate>
+        <pubDate>Thu, 24 May 2018 19:31:28 GMT</pubDate>
         <item>
             <title><![CDATA[Open Software]]></title>
             <description><![CDATA[<h1>Open Software</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5decf7-7bc6-48eb-b157-acc7daa6ef26.png" title="Linux" alt="The One you need">,<h2>Operating System</h2>,<p>There are many distributions containing Linux. I have used Red Hat, OpenSuSE and Ubuntu. I prefer Xubuntu for desktops, but use others for specific projects, e.g. Kali.</p>]]></description>
             <link>https://thegrid.ai/open-it/open-software/index.html</link>
             <guid isPermaLink="false">d56cc8f4-9b4e-4b27-864a-3905e7f08092</guid>
             <pubDate>Tue, 21 Mar 2017 21:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online Web Tutorials and reference]]></title>
-            <description><![CDATA[<h2>Online Web Tutorials and reference</h2>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d654f26b917d0bc8a5377bf60fb9477b777391f.jpg"><h1>W3Schools Online Web Tutorials</h1><p>HTML Tag Reference HTML Event Reference HTML Color Reference HTML Attribute Reference HTML Canvas Reference HTML SVG Reference Google Maps Reference CSS Reference CSS Browser Support CSS Selector Reference W3.CSS Reference Bootstrap Reference Icon Reference</p></article>,<h2>Cheat Sheets</h2>,<article><h1>Cheat Sheet : All Cheat Sheets in one page</h1><p>All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.</p></article>]]></description>
-            <link>https://www.w3schools.com/</link>
-            <guid isPermaLink="false">ad4fe2d3-bc4f-4068-9537-3cb94b1bb7f3</guid>
-            <pubDate>Thu, 24 May 2018 19:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Pi-centric Media System]]></title>
@@ -49,6 +42,13 @@ Live broadcast: USA and UK News.Movies: from all eras and genres.Documentaries: 
             <link>https://thegrid.ai/open-it/flow-based-programming-video/index.html</link>
             <guid isPermaLink="false">c5d2a715-6409-4a95-a62a-7464a8846bdb</guid>
             <pubDate>Fri, 25 Aug 2017 18:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online Web Tutorials and reference]]></title>
+            <description><![CDATA[<h2>Online Web Tutorials and reference</h2>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d654f26b917d0bc8a5377bf60fb9477b777391f.jpg"><h1>W3Schools Online Web Tutorials</h1><p>HTML Tag Reference HTML Event Reference HTML Color Reference HTML Attribute Reference HTML Canvas Reference HTML SVG Reference Google Maps Reference CSS Reference CSS Browser Support CSS Selector Reference W3.CSS Reference Bootstrap Reference Icon Reference</p></article>,<h2>Cheat Sheets</h2>,<article><h1>Cheat Sheet : All Cheat Sheets in one page</h1><p>All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.</p></article>]]></description>
+            <link>https://thegrid.ai/open-it/online-web-tutorials-and-reference/index.html</link>
+            <guid isPermaLink="false">ad4fe2d3-bc4f-4068-9537-3cb94b1bb7f3</guid>
+            <pubDate>Thu, 24 May 2018 19:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bitcoin.pdf]]></title>
