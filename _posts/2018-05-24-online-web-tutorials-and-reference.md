@@ -5,8 +5,8 @@ description: >-
   Reference HTML Canvas Reference HTML SVG Reference Google Maps Reference CSS
   Reference CSS Browser Support CSS Selector Reference W3.CSS Reference
   Bootstrap Reference Icon Reference
-dateModified: '2018-05-24T19:28:46.288Z'
-datePublished: '2018-05-24T19:28:47.012Z'
+dateModified: '2018-05-24T19:29:30.054Z'
+datePublished: '2018-05-24T19:29:30.368Z'
 title: Online Web Tutorials and reference
 author: []
 publisher:
@@ -16,9 +16,9 @@ publisher:
   domain: www.w3schools.com
 via: {}
 isBasedOnUrl: 'https://www.w3schools.com/'
+sourcePath: _posts/2018-05-24-online-web-tutorials-and-reference.md
 starred: false
 datePublishedOriginal: '2018-05-24T19:28:47.012Z'
-sourcePath: _posts/2018-05-24-online-web-tutorials-and-reference.md
 _type: MediaObject
 
 ---
