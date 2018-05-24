@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-05-24T19:29:30.446Z'
+datePublished: '2018-05-24T19:31:54.194Z'
 sourcePath: _posts/2016-09-19-entertainment-center.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-05-24T19:29:30.054Z'
+dateModified: '2018-05-24T19:31:52.982Z'
 title: Open Pi-centric Media System
 publisher: {}
 description: >-
