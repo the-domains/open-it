@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A filmed interview with J. Paul Morrison, inventor/discoverer of Flow-Based
   Programming This replaces 2015 video (was https://youtu.be/zZ3HVEdoie0)
-dateModified: '2017-11-28T02:13:23.171Z'
-datePublished: '2017-11-28T02:13:24.123Z'
+dateModified: '2018-05-24T19:29:30.054Z'
+datePublished: '2018-05-24T19:29:30.432Z'
 title: Flow based Programming Video
 author:
   - name: Paul Morrison
